@@ -3,7 +3,7 @@
 Welcome to `product mart` this is an Angular App where we are using Angular Material to develop pages and we are making this app from the scratch to learn angular.
 
 This course is introduction to `MEAN` stack step by step.
-The `MEAN` stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
+The `MEAN` stack uses `Mongo`, `Express`, `Angular` and `Node` for simple and scalable fullstack js applications
 - [x] M = MONGO DB
 - [x] E = EXPRESS
 - [x] A = ANGULAR
