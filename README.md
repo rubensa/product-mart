@@ -1,5 +1,14 @@
 # ProductMart
 
+Welcome to `product mart` this is an Angular App where we are using Angular Material to develop pages and we are making this app from the scratch to learn angular.
+
+This course is introduction to `MEAN` stack step by step.
+
+- [x] M = MONGO DB
+- [x] E = EXPRESS.JS
+- [x] A = ANGULAR
+- [x] N = NODE.JS
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
 ## Development server
@@ -14,7 +23,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Checklist
+## Learning Checklist
 
 We are going to build Angular App from Scratch (Covering MEAN Stack step by step)
 
