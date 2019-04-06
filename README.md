@@ -11,7 +11,8 @@ This course is introduction to `MEAN` stack step by step.
 
 ## Learning Checklist
 
-We are going to build Angular App from Scratch (Covering MEAN Stack step by step)
+Below are our learning checklist. We will cover one by one each topic while making this website and hence completing our `MEAN` Stack Learning.
+Please follow all of my teaching videos here in YouTube.
 
 - [x] ~~_Environment ( node, npm , expressjs, vscode )_~~ [2019-04-06]
 - [x] ~~_Angular CLI_~~ [2019-04-06]
@@ -22,6 +23,12 @@ We are going to build Angular App from Scratch (Covering MEAN Stack step by step
 - [ ] Host application in local server ( express.js)
 - [ ] Serve the data from local server
 - [ ] Integrate app with Mongo DB.
+- [ ]
+
+## Learning Materials
+
+- [x] Youtube Link for Introduction to `MEAN` stack and Learning Angular Step by Step.
+- [x] Articles related to `Angular` and related `MEAN` stacks can be found here in https://rupeshtiwari.com
 
 ## Development server
 
