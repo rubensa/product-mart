@@ -1,4 +1,4 @@
-# ProductMart
+# PRODUCT MART ANGULAR APP on MEAN STACK
 
 Welcome to `product mart` this is an Angular App where we are using Angular Material to develop pages and we are making this app from the scratch to learn angular.
 
