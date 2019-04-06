@@ -14,14 +14,16 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+## Checklist
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+We are going to build Angular App from Scratch (Covering MEAN Stack step by step)
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+- [x] ~~_Environment ( node, npm , expressjs, vscode )_~~ [2019-04-06]
+- [x] ~~_Angular CLI_~~ [2019-04-06]
+- [ ] Use Case (Display User List)
+- [ ] Integrate with Angular Material
+- [ ] Use Components from Angular Material
+- [ ] Organize Project (shared and core module, feature module)
+- [ ] Host application in local server ( express.js)
+- [ ] Serve the data from local server
+- [ ] Integrate app with Mongo DB.
