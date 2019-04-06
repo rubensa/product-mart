@@ -5,7 +5,7 @@ Welcome to `product mart` this is an Angular App where we are using Angular Mate
 This course is introduction to `MEAN` stack step by step.
 
 - [x] M = MONGO DB
-- [x] E = EXPRESS.JS
+- [x] E = EXPRESS 
 - [x] A = ANGULAR
 - [x] N = NODE.JS
 
